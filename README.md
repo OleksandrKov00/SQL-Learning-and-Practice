@@ -1,1 +1,1 @@
-# SQL-Learning-Practice
+# SQL-Learning-and-Practice
