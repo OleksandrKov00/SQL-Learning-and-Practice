@@ -1,5 +1,5 @@
 # SQL-Practice
-Here are some SQL queries similar to practical use cases. They work with the following datasets:
+Some SQL queries similar to practical use cases that describe following datasets:
 
 1. dataset employees: step project for Dan.it education Data Analytics course. Dataset consists of company's internal information: departments, employees & salaries
 
